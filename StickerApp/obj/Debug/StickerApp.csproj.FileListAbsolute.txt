@@ -1,0 +1,20 @@
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\bin\Debug\StickerApp.exe.config
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\bin\Debug\StickerApp.exe
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\bin\Debug\StickerApp.pdb
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\StickerApp.csprojAssemblyReference.cache
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\MainWindow.g.cs
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\App.g.cs
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\StickerApp_MarkupCompile.cache
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\StickerApp_MarkupCompile.lref
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\MainWindow.baml
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\StickerApp.g.resources
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\StickerApp.Properties.Resources.resources
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\StickerApp.csproj.GenerateResource.cache
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\StickerApp.exe
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\StickerApp.pdb
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\Simple Styles.baml
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\App.baml
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\ButtonStyleSticker.baml
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\ButtonStyleSticker.g.cs
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Programowanie\Studia\C#\S4 - Programowanie\StickerApp\obj\Debug\StickerApp.csproj.CoreCompileInputs.cache
